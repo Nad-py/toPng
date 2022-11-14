@@ -43,7 +43,7 @@ Project is: _no longer being worked on_ because it does what i need it to do and
 
 ## Room for Improvement
 Room for improvement:
-- Make it prettier
+- Make it look prettier
 - Check if the files are an "image type" or not
 - Choose which file type to change to, maybe a field where you type the format
 - Fix the "Ugly code" where the conversion happens
